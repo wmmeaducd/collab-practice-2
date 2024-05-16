@@ -23,6 +23,11 @@ img {
     border-radius: 10px;
 }
 
+#catphoto {
+    height: 300px;
+    width: auto;
+}
+
 h1, h2, p {
     margin: 0;
     padding: 0;
