@@ -40,10 +40,10 @@ header {
 
 header h1 {
     color: #23a3ff;
-    color: oklch(67.06% 0.308 348.35);
     font-size: 96px;
     text-align: center;
     text-shadow: 0px 0px 5px rgba(49, 12, 19, 1);
+    font-size: 400pt;
 }
 
 header h1::before {
