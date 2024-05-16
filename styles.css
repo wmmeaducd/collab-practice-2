@@ -40,7 +40,7 @@ header {
 
 header h1 {
     color: #ff23b1;
-    color: oklch(67.06% 0.308 348.35);
+    color: black;
     font-size: 96px;
     text-align: center;
     text-shadow: 0px 0px 5px rgba(49, 12, 19, 1);
