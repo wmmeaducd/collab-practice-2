@@ -1,5 +1,5 @@
 body {
-    font-family: "Montserrat", sans-serif;
+    font-family: "Times", serif;
     font-optical-sizing: auto;
     font-weight: 300;
     font-style: normal;
@@ -39,7 +39,7 @@ header {
 }
 
 header h1 {
-    color: #ff23b1;
+    color: #23a3ff;
     color: oklch(67.06% 0.308 348.35);
     font-size: 96px;
     text-align: center;
@@ -86,8 +86,8 @@ article h2 {
 }
 
 article footer {
-    background-color: #ff23b1;
-    background-color: oklch(67.06% 0.308 348.35);
+    background-color: #23a3ff;
+    background-color: #23a3ff;
     border-radius: 10px;
     min-height: 26px;
     text-align: center;
