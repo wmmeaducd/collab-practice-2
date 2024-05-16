@@ -86,12 +86,7 @@ article h2 {
 }
 
 article footer {
-    background-color: #ff23b1;
-    background-color: oklch(67.06% 0.308 348.35);
-    border-radius: 10px;
-    min-height: 26px;
-    text-align: center;
-    padding: 10px;
+    border-bottom: 1px solid black
 }
 
 article {
